@@ -6,4 +6,4 @@
 2. [Функционал, пермишены](./docs/ru/func_n_perms.md)
 
 ### Поддержка: 
-discord: yourmayskiy
+[Discord](https://discord.gg/7Qj2KjNsqm) 
